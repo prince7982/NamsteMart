@@ -67,11 +67,13 @@
         </dependency>
         
         <!-- https://mvnrepository.com/artifact/jakarta.mail/jakarta.mail-api -->
-        <dependency>
+        <!--
+		<dependency>
             <groupId>jakarta.mail</groupId>
             <artifactId>jakarta.mail-api</artifactId>
             <version>2.1.1</version>
         </dependency>
+		-->
         
         <!-- https://mvnrepository.com/artifact/com.sun.mail/jakarta.mail -->
         <dependency>
@@ -81,11 +83,13 @@
         </dependency>
 		
 		<!-- this is extra add -->
+		<!--
 		<dependency>
             <groupId>jakarta.activation</groupId>
             <artifactId>jakarta.activation-api</artifactId>
             <version>2.1.2</version>
         </dependency>
+		-->
         
         <!-- https://mvnrepository.com/artifact/javax.xml.ws/jaxws-api -->
         <dependency>
