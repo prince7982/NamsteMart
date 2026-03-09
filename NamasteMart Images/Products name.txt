@@ -1,0 +1,335 @@
+
+
+--------------------------------Shoes
+
+VALUES ( 
+    'P202412080001',
+    'ADIDAS ULTRABOOST 23 (Black/White)',
+    'footwear',
+    'Cloud-like comfort with Boost cushioning technology. Perfect for running and all-day wear.',
+    15999.00,
+    300,
+    LOAD_FILE('C:/product_images/adidas_ultraboost_black.jpg')
+);
+
+
+
+------------------------------Phone 
+
+VALUES ( 
+    'P202412080201',
+    'APPLE iPhone 13 Pro (Graphite, 512 GB)',
+    'Accessories',
+    'iPhone 13 boasts an advanced dual-camera system that allows you to click mesmerizing pictures with immaculate clarity.',
+    125999.0,
+    20,
+    LOAD_FILE('C:/product_images/iphone.jpg')
+);
+
+
+
+--------------------------bed 
+
+VALUES ( 
+    'P202412080101',
+    'QUEEN SIZE PLATFORM BED WITH STORAGE (Walnut Finish)',
+    'furniture',
+    'Elegant queen-size bed with built-in storage drawers. Premium engineered wood with scratch-resistant finish.',
+    35999.00,
+    150,
+    LOAD_FILE('C:/product_images/queen_bed_walnut.jpg')
+);
+
+
+
+
+-------------------------------wheel chair 
+
+VALUES ( 
+    'P202412080201',
+    'STANDARD MANUAL WHEELCHAIR (Adult Size, Black)',
+    'medical',
+    'Lightweight foldable wheelchair with padded seat and adjustable footrests. Easy to transport and store.',
+    15999.00,
+    200,
+    LOAD_FILE('C:/product_images/wheelchair_standard_blue.jpg')
+);
+
+
+
+-------------------------------toothbrush
+
+VALUES ( 
+    'P202412080301',
+    'Philips iO SERIES 9 (Black)',
+    'electronics',
+    'Revolutionary magnetic drive technology with AI recognition. 3D tracking via app for professional clean.',
+    21999.00,
+    150,
+    LOAD_FILE('C:/product_images/oral_b_io9.jpg')
+);
+
+
+------------------------------Guest chair
+
+VALUES ( 
+    'P202412080401',
+    'GUEST HOUSE ARMCHAIR (Beige Fabric)',
+    'furniture',
+    'Comfortable armchair with plush cushioning. Perfect for guest rooms with contemporary design.',
+    7999.00,
+    120,
+    LOAD_FILE('C:/product_images/guest_armchair_beige.jpg')
+);
+
+
+----------------------------Prestige cooker 
+
+VALUES ( 
+    'P202412080501',
+    'PRESTIGE PRESSURE COOKER (5L, Aluminium)',
+    'kitchen',
+    'High-quality aluminium pressure cooker with safety valve. Cooks faster and retains nutrients.',
+    1999.00,
+    300,
+    LOAD_FILE('C:/product_images/pressure_cooker.jpg')
+);
+
+
+-------------------------------Pen holder
+
+VALUES ( 
+    'P202412080601',
+    'CERAMIC PEN HOLDER CUP (White)',
+    'stationery',
+    'Minimalist ceramic pen cup for desk organization. Holds pens, pencils, and markers neatly.',
+    499.00,
+    500,
+    LOAD_FILE('C:/product_images/pen_cup_ceramic.jpg')
+);
+
+
+-----------------------cycle
+
+VALUES ( 
+    'P202412080704',
+    'HERO KIDS CYCLE 20 INCHES (Training Wheels)',
+    'sports',
+    'Children bicycle with removable training wheels. Adjustable seat and handlebars for growing kids.',
+    4999.00,
+    200,
+    LOAD_FILE('C:/product_images/kids_cycle.jpg')
+);
+
+
+------------------------Laptop
+
+VALUES ( 
+    'P202412080801',
+    'DELL XPS 13 (i7, 16GB RAM, 512GB SSD)',
+    'electronics',
+    'Ultra-thin premium laptop with InfinityEdge display. High performance for professionals and creators.',
+    129999.00,
+    50,
+    LOAD_FILE('C:/product_images/dell_xps13.jpg')
+);
+
+
+-------------------------Fish rod
+
+VALUES ( 
+    'P202412080901',
+    'SHIMANO SPINNING FISHING ROD (7 Feet)',
+    'sports',
+    'Lightweight spinning rod with sensitive tip. Perfect for freshwater fishing with lures.',
+    3499.00,
+    120,
+    LOAD_FILE('C:/product_images/spinning_rod.jpg')
+);
+
+
+
+---------------------gym
+
+VALUES ( 
+    'P202412081004',
+    'URBAN LEAF INDOOR CYCLING BIKE (Flywheel)',
+    'fitness',
+    'Heavy flywheel indoor cycling bike. Simulates real road cycling experience.',
+    24999.00,
+    40,
+    LOAD_FILE('C:/product_images/indoor_cycle.jpg')
+);
+
+
+
+-------------------------Handbag purse
+
+VALUES ( 
+    'P202412081102',
+    'CROSSBODY PURSE (Adjustable Strap, Brown)',
+    'fashion',
+    'Hands-free crossbody bag with adjustable strap. Perfect for everyday casual use.',
+    1999.00,
+    200,
+    LOAD_FILE('C:/product_images/crossbody_bag.jpg')
+);
+
+
+-----------------------mens gym compresstion set
+VALUES ( 
+    'P202412081206',
+    'COMPRESSION GYM SET (Top & Bottom)',
+    'fitness',
+    'Complete compression set for full body workout. Matching top and bottom for coordinated look.',
+    2999.00,
+    150,
+    LOAD_FILE('C:/product_images/compression_set.jpg')
+);
+
+
+
+--------------------------------women gym wear set
+
+VALUES ( 
+    'P202412081302',
+    'HIGH IMPACT SPORTS BRA & LEGGINGS (7/8 Length)',
+    'fitness',
+    'Sports bra for intense workouts. Removable pads and racerback design & Seamless leggings with moisture-wicking fabric. ',
+    1299.00,
+    400,
+    LOAD_FILE('C:/product_images/sports_bra.jpg')
+);
+
+
+
+--------------------------pens
+
+VALUES ( 
+    'P202412081401',
+    'PARKER FOUNTAIN PEN (Blue Ink, Gift Box)',
+    'stationery',
+    'Premium fountain pen with smooth writing nib. Includes converter and cartridge system.',
+    1499.00,
+    200,
+    LOAD_FILE('C:/product_images/fountain_pen.jpg')
+);
+
+
+
+------------------------------Ludo
+
+VALUES ( 
+    'P202412081503',
+    'TRAVEL LUDO SET (Magnetic Pieces)',
+    'games',
+    'Compact magnetic Ludo set for travel. Pieces stick to board during journeys.',
+    499.00,
+    200,
+    LOAD_FILE('C:/product_images/travel_ludo.jpg')
+);
+
+
+
+------------------------------Printer
+
+VALUES ( 
+    'P202412081602',
+    'CANON LASER PRINTER (Monochrome)',
+    'electronics',
+    'Fast monochrome laser printer for office use. High-volume printing with low cost per page.',
+    12999.00,
+    80,
+    LOAD_FILE('C:/product_images/laser_printer.jpg')
+);
+
+
+
+
+----------------------Whey Protein
+
+VALUES ( 
+    'P202412081702',
+    'MUSCLEBLAZE WHEY PROTEIN (Vanilla, 2kg)',
+    'supplements',
+    'Whey protein concentrate for muscle recovery. Contains digestive enzymes for absorption.',
+    4499.00,
+    150,
+    LOAD_FILE('C:/product_images/whey_concentrate.jpg')
+);
+
+
+
+
+
+-----------------------Ps5 game 
+
+VALUES ( 
+    'P202412081801',
+    'SONY PLAYSTATION 5 CONSOLE (Disc Edition)',
+    'electronics',
+    'Next-gen gaming console with 4K/120fps support. Ultra-high speed SSD for fast loading.',
+    54999.00,
+    50,
+    LOAD_FILE('C:/product_images/ps5_console.jpg')
+);
+
+
+
+
+--------------------------Watch
+
+VALUES ( 
+    'P202412081901',
+    'SAMSUNG GALAXY WATCH 6 CLASSIC (47mm LTE)',
+    'electronics',
+    'Rotating bezel smartwatch with LTE connectivity. Advanced health monitoring and sapphire glass.',
+    35999.00,
+    80,
+    LOAD_FILE('C:/product_images/galaxy_watch6_classic.jpg')
+);
+
+
+
+--------------------------Tent
+ 
+VALUES ( 
+    'P202412082001',
+    '2-PERSON BACKPACKING TENT (Lightweight)',
+    'outdoors',
+    'Ultra-light tent for hiking and backpacking. Easy setup with aluminum poles and rainfly.',
+    7999.00,
+    100,
+    LOAD_FILE('C:/product_images/backpacking_tent.jpg')
+);
+
+
+
+
+
+-----------------------Vaccum cleaner
+
+VALUES ( 
+    'P202412082101',
+    'DYSON V11 CORDLESS VACUUM (Stick Type)',
+    'home_appliances',
+    'Cordless stick vacuum with powerful suction. LCD screen shows battery and performance.',
+    44999.00,
+    60,
+    LOAD_FILE('C:/product_images/stick_vacuum.jpg')
+);
+
+
+
+
+----------------------------Toys
+
+VALUES ( 
+    'P202412082205',
+    'SCIENCE EXPERIMENT KIT FOR KIDS',
+    'toys',
+    'Educational science kit with safe experiments. Includes microscope and chemistry set.',
+    2499.00,
+    100,
+    LOAD_FILE('C:/product_images/science_kit.jpg')
+);
