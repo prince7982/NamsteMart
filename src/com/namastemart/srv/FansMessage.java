@@ -40,8 +40,7 @@ public class FansMessage extends HttpServlet
         } 
 		else 
 		{
-            //message = "Failed: Please Configure mailer.email and password in application.properties first";
-			message = "Error: " + message;
+            message = "Failed: Please Configure mailer.email and password in application.properties first";
         }
         
         RequestDispatcher rd = request.getRequestDispatcher("index.jsp");

@@ -16,6 +16,7 @@ com\namastemart\srv\AddtoCart.class
 com\namastemart\srv\RegisterSrv.class
 com\namastemart\utility\MailMessage.class
 com\namastemart\beans\UserBean.class
+com\namastemart\utility\JavaMailUtil$2.class
 com\namastemart\service\OrderService.class
 com\namastemart\utility\DBUtil.class
 com\namastemart\service\ProductService.class
